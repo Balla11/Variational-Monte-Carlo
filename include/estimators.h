@@ -1,0 +1,1 @@
+double compute_sp_wave_function_value(double* pos, int i, int system_size, WavePackage* trial);

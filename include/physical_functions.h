@@ -1,0 +1,1 @@
+double jastrow_u(double r, double* variational_params, double* simulation_params);

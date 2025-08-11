@@ -35,6 +35,7 @@ SystemObservables* observables_init(double* particle_positions, int system_size,
 	obs->potential_energy = 0.0;
 	obs->gradient_kinetic_energy = 0.0;
 
+	return obs;
 }
 
 void free_observables(SystemObservables* obs) {

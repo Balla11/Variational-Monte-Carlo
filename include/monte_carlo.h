@@ -1,0 +1,1 @@
+void monte_carlo_simulation(SimConfig* simulation_parameters, WavePackage* trial, double* particle_positions, int system_size);
